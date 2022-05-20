@@ -3,3 +3,5 @@ banana
 orange
 strawberryr
 pear
+strawberry
+(bugfix)
